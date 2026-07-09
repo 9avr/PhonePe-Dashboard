@@ -44,37 +44,37 @@ Join_Date
 ### 5.	Features / Highlights
 Key KPIs 
 
-Total Transactions: 300000	
+        Total Transactions: 300000	
 
-Total value:3.47 Bn
+        Total value:3.47 Bn
 
-Unique Users: 101K
+        Unique Users: 101K
 
-Success Rate: 96%
+        Success Rate: 96%
 
 
 Month and Status Filter Panel
 
-An interactive slicer lets users filter all visuals by selected month and status of transaction.
+        An interactive slicer lets users filter all visuals by selected month and status of transaction.
 
 Transactions over time (Dual Line Chart)
 
-Two line visuals side by side: one for total transactions, another for transaction value.
+        Two line visuals side by side: one for total transactions, another for transaction value.
 
 Age segment contributuion (Donut chart)
 
-Displays the contributuion of different age groups in total transaction
+        Displays the contributuion of different age groups in total transaction
 Service type bar chart 
 
-Displays which services contributed to maximum transaction value
+        Displays which services contributed to maximum transaction value
 
 Top 5 Users (Bar Chart)
 
-Gives information about top 5 most contributing users
+        Gives information about top 5 most contributing users
 
 Transaction by weekdays (Line  Chart)
 
-Shows intensity of transactions distributed over weekdays.
+       Shows intensity of transactions distributed over weekdays.
 
 
 
