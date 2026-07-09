@@ -56,26 +56,29 @@ Success Rate: 96%
 Month and Status Filter Panel
 
 An interactive slicer lets users filter all visuals by selected month and status of transaction.
+
 Transactions over time (Dual Line Chart)
+
 Two line visuals side by side: one for total transactions, another for transaction value.
+
 Age segment contributuion (Donut chart)
-Displays the contributuion of different age groups in total transaction.
-             Service type bar chart 
-	Displays which services contributed to maximum transaction value
--	Top 5 Users (Bar Chart)
+
+Displays the contributuion of different age groups in total transaction
+Service type bar chart 
+
+Displays which services contributed to maximum transaction value
+
+Top 5 Users (Bar Chart)
+
 Gives information about top 5 most contributing users
--	Transaction by weekdays (Line  Chart)
+
+Transaction by weekdays (Line  Chart)
+
 Shows intensity of transactions distributed over weekdays.
 
 
 
 
-•	Business Impact & Insights
-Marketing Optimization: Travel agencies can use this dashboard to identify key selling points for different demographics (e.g., child-friendly resorts or expert terrain).
-Strategic Expansion: Resort developers can spot underdeveloped regions with high potential.
-Vacation Planning: Tourists can plan trips based on slope availability, elevation, and terrain difficulty.
-Regional Analysis: Governments and tourism bodies can analyze competitiveness by region.
-
 ### 6.	Screenshots / Demos
-Show what the dashboard looks like.
-Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+
+ ![Dashboard Preview](https://github.com/9avr/PhonePe-Dashboard/blob/main/PhonePe%20dashboard%20screenshot.PNG)
