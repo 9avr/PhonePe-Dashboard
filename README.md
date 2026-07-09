@@ -68,7 +68,7 @@ Service type bar chart
 
         Displays which services contributed to maximum transaction value
 
-Top 5 Users (Bar Chart)
+Top 5 Users (Column Chart)
 
         Gives information about top 5 most contributing users
 
