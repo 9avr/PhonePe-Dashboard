@@ -17,31 +17,52 @@ The dashboard was built using the following tools and technologies:<br>
 Source: https://www.kaggle.com 
 The dataset contains PhonePE transaction records for year 2024 including:
 
-Transaction_ID
+         Transaction_ID
 
-Amount
+         Amount
 
-ser_ID 
+         user_ID 
 
-Service 
+         Service 
 
-Service Type 
+         Service Type 
 
-Payment_Status 
+         Payment_Status 
 
-Reason 
+         Reason 
 
-Date
+         Date
 
-Name 
+         Name 
 
-Age
+         Age
 
-Join_Date
+         Join_Date
+
+### 5.	Business quetions answered
+        1.How many transactions were done in a year?
+        
+        2.What is the total value of the transactions?
+        
+        3.How many unique users are using the platform?
+        
+        4.Trends, growth, decline, or recurring patterns in transactions and their value over different months?
+        
+        5.Age segment contribution?
+        
+        6.Which service type accounts for maximum and minimum transactions?
+        
+        7.Which service type contributed maximum and minimum revenue?
+        
+        8.Who are top 5 users and what transactions they have done?
+        
+        9.Intensity of transactions over weekdays?
+        
+        10.Success rate of transactions?
 
 
 
-### 5.	Features / Highlights
+### 6.	Features / Highlights
 Key KPIs 
 
         Total Transactions: 300000	
