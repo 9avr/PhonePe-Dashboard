@@ -3,7 +3,7 @@
  PhonePe Transactions Insights Dashboard
 
 ### 2.Purpose
-The PhonePe Transactions Insights Dashboard is a visually engaging and analytical Power BI report designed to help users analyse over 300000 transactions ov over 100000 users accounting for more than 3.5 Bn in valuation. The dashboard focuses on highlighting Age segment contribution, variation in transaction on weekdays and over months, services which account for maximum transactions,Top 5 users in each category. 
+The PhonePe Transactions Insights Dashboard is a visually engaging and analytical Power BI report designed to help users analyse over 300000 transactions of over 100000 users accounting for more than 3.5 Bn in valuation. The dashboard focuses on highlighting Age segment contribution, variation in transaction on weekdays and over months, services which account for maximum transactions,Top 5 users in each category. 
 
 ### 3.Tech Stack
 The dashboard was built using the following tools and technologies:<br>
