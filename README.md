@@ -10,6 +10,7 @@ The dashboard was built using the following tools and technologies:<br>
 •	📊 Power BI Desktop – Main data visualization platform used for report creation.<br>
 •	📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.<br>
 •	🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.<br>
+• 🗄️ SQL (MySQL) – Used to independently validate dashboard KPIs and perform data quality checks via query.<br>
 •	📝 Data Modeling – Relationships established among tables (Transactions, User details, Date) to enable cross-filtering and aggregation.<br>
 •	📁 File Format – .pbix for development and .png for dashboard previews.
 
@@ -97,6 +98,15 @@ Transaction by weekdays (Line  Chart)
 
        Shows intensity of transactions distributed over weekdays.
 
+### SQL Validation
+
+To validate the dashboard's KPIs independently of Power BI/DAX, I also wrote a set of SQL queries (phonepe_sql_queries.sql) that answer the same business questions directly against the raw transaction data loaded into MySQL. This includes:
+
+       1.Aggregate queries confirming Total Transactions, Total Value, Unique Users, and Success Rate match the dashboard        
+       2.A month-over-month trend query using the LAG() window function to calculate transaction value growth/decline
+       3.A CTE (WITH) combined with a self-join to identify the top 5 users and pull their full transaction history
+       4.Age segment and weekday intensity breakdowns mirroring the donut/line chart visuals
+       5.Data quality checks for duplicate transaction IDs, null values, and invalid (negative/zero) transaction amounts
 
 
 
